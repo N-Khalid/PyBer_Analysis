@@ -1,12 +1,12 @@
 # PyBer_Analysis
 
-## Overview of the analysis:
+## Overview of the analysis
 
 V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 The purpose of the new analysis is compare riding sharing information regarding city types and determine how the data can be used to make decisions at the company
 
-## Results:
+## Results
 
 ![dataframe](https://user-images.githubusercontent.com/103234661/189583788-4592bf76-bc72-471e-8b4c-cf1cd582f713.png)
 
@@ -26,7 +26,7 @@ Average fare per driver: The highest average fare per driver is in the rural cit
 
 When viewing this graph we can determine the total fare by city type. The highest total fare is found in the urban city type followed by suburban and rural city types respectively. We can also see that between January to April all three city types see an increase in total fares. The lowest fares are always in January for all city types, and all three reach a peak in March and have a small decrease by April overall leading to the total increase over time.
 
-## Summary:
+## Summary
 
 Three business recommendations I have for the the CEO to address the disparities among the city types are:
 
